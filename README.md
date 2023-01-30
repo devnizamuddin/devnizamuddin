@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnizamuddin&label=Profile%20views&color=0e75b6&style=flat" alt="devnizamuddin" /> </p>
 
-- 🔭 I’m currently working on [PridesysGRP](https://gitlab.com/egovt/pridesys_grp_flutter)
+- 🔭 I’m currently working on [SpringRest](https://github.com/devnizamuddin/SpringRest)
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
