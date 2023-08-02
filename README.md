@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dev.nizamuddin@gmail.com**
 
-[Find Me on LinkedIn](https://linkedin.com/in/devnizamuddin)
+[<h1>Find Me on LinkedIn</h1>](https://linkedin.com/in/devnizamuddin)
 
 <h3 align="left">Frameworks & Programming Languages:</h3>
 <p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
