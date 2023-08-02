@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dev.nizamuddin@gmail.com**
 
-<h1><a href="https://linkedin.com/in/devnizamuddin" target="_blank" rel="noreferrer"> Find Me on LinkedIn</a></h1>
+<h2><a href="https://linkedin.com/in/devnizamuddin" target="_blank" rel="noreferrer"> Find Me on LinkedIn</a></h2>
 
 
 <h3 align="left">Frameworks & Programming Languages:</h3>
