@@ -11,7 +11,7 @@
 
 - 👨‍💻 My best projects are available at [https://sites.google.com/view/devnizamuddin/portfolio](https://sites.google.com/view/devnizamuddin/portfolio)
 
-- 💬 Ask me about **Flutter, Android, IOS**
+- 💬 Ask me about **Flutter & Android**
 
 - 📫 How to reach me **dev.nizamuddin@gmail.com**
 
