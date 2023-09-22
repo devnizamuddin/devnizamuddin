@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on rebuilding [Cripton ERP](https://gitlab.com/pakizatvl/criptonapp) Mobile Application
 
-- 🌐 Portfolio Website: [DevNizamUddin](https://sites.google.com/view/devnizamuddin/portfolio) <img src="https://e7.pngegg.com/pngimages/1014/79/png-clipart-yellow-and-black-under-construction-signage-under-construction-icon-computer-icons-architectural-engineering-free-construction-files-miscellaneous-text-thumbnail.png" width="24" height="24">
+- 🌐 Portfolio Website: [DevNizamUddin](https://sites.google.com/view/devnizamuddin/portfolio) <img src="https://e7.pngegg.com/pngimages/1014/79/png-clipart-yellow-and-black-under-construction-signage-under-construction-icon-computer-icons-architectural-engineering-free-construction-files-miscellaneous-text-thumbnail.png" width="16" height="16">
 
 - 💬 Ask me about **Flutter & Android & iOS**
 
