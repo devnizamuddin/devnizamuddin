@@ -21,9 +21,9 @@
 -  2 years plus professional job experience in working with Mobile technologies.
 
 -  Experience in building apps from scratch in both Flutter and Android.
--  
+  
 -  Experience in deploying apps in both AppStore & PlayStore.
--  
+  
 -  Having experience in working in backend technologies.
 
 
