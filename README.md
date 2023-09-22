@@ -3,20 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnizamuddin&label=Profile%20views&color=0e75b6&style=flat" alt="devnizamuddin" /> </p>
 
-- 🔭 I’m currently working on rebuilding [Cripton ERP](https://gitlab.com/pakizatvl/criptonapp) Mobile Application
+-  I’m currently working on rebuilding [Cripton ERP](https://gitlab.com/pakizatvl/criptonapp) Mobile Application
 
-- 🌱 I’m currently learning **Java Spring Boot**
+-  Portfolio Website: [DevNizamUddin](https://sites.google.com/view/devnizamuddin/portfolio)
 
-- 👯 I’m looking to collaborate on [BCSIR](https://gitlab.com/egovt/bcsir/bcsir-android-client)
-
-- 👨‍💻 My best projects are available at [https://sites.google.com/view/devnizamuddin/portfolio](https://sites.google.com/view/devnizamuddin/portfolio)
-
-- 💬 Ask me about **Flutter & Android**
+- 💬 Ask me about **Flutter & Android & iOS**
 
 - 📫 How to reach me **dev.nizamuddin@gmail.com**
 
 <h2>Find me on<h2/> <h2 style="margin-left:200"> <a href="https://linkedin.com/in/devnizamuddin" target="_blank" rel="noreferrer">LinkedIn</a></h2>
-
 
 <h3 align="left">Frameworks & Languages:</h3>
 <p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
