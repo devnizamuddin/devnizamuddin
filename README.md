@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnizamuddin&label=Profile%20views&color=0e75b6&style=flat" alt="devnizamuddin" /> </p>
 
-- 🔭 I’m currently working on [PrideGRP](https://gitlab.com/mobile-app-team/pridesys_grp_flutter)
+- 🔭 I’m currently working on rebuilding [Cripton ERP]([https://gitlab.com/mobile-app-team/pridesys_grp_flutter](https://gitlab.com/pakizatvl/criptonapp)) Mobile Application
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
