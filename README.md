@@ -2,13 +2,9 @@
 
 <h3 align="center">A passionate Mobile Application Developer from Bangladesh</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnizamuddin&label=Profile%20views&color=0e75b6&style=flat" alt="devnizamuddin" /> </p>
-
--  2 years plus professional job experience in working with Mobile technologies.
--  Experience in building apps from scratch in both Flutter and Android.
--  Experience in deploying apps in both AppStore & PlayStore.
--  Having experience in working in backend technologies.
-
 
 -  I’m currently working on rebuilding [Cripton ERP](https://gitlab.com/pakizatvl/criptonapp) Mobile Application
 
@@ -17,6 +13,19 @@
 - 💬 Ask me about **Flutter & Android & iOS**
 
 - 📫 How to reach me **dev.nizamuddin@gmail.com**
+
+
+
+<h2>Carrer Summary</h2>
+
+-  2 years plus professional job experience in working with Mobile technologies.
+
+-  Experience in building apps from scratch in both Flutter and Android.
+-  
+-  Experience in deploying apps in both AppStore & PlayStore.
+-  
+-  Having experience in working in backend technologies.
+
 
 <h2 style="margin-left:200" >Find me on <a href="https://linkedin.com/in/devnizamuddin" target="_blank" rel="noreferrer">LinkedIn</a></h2>
 
