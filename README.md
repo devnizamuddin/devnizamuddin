@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nizam Uddin Shamrat</h1>
+<h1 align="center">Hi 👋, I'm <span style="color: #1E88E5">Nizam Uddin Shamrat</span></h1>
+
 <h3 align="center">A passionate Mobile Application Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnizamuddin&label=Profile%20views&color=0e75b6&style=flat" alt="devnizamuddin" /> </p>
