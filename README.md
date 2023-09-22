@@ -17,7 +17,7 @@
 
 
 
-<h3>Carrer Summary</h3>
+<h2>Carrer Summary</h2>
 
 -  2 years plus professional job experience in working with Mobile technologies.
 
