@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Flutter & Android & iOS**
 
-- 📫 How to reach me **dev.nizamuddin@gmail.com**
+- 📫 To reach me, send an Email to **dev.nizamuddin@gmail.com**
 
 
 
