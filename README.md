@@ -17,7 +17,7 @@
 
 
 
-<h2>Carrer Summary</h2>
+<h3>Carrer Summary</h3>
 
 -  2 years plus professional job experience in working with Mobile technologies.
 
@@ -33,7 +33,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devnizamuddin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devnizamuddin/" height="30" width="40" /></a>
 </p>
 
-<h2 style="margin-left:200" >Find me on <a href="https://linkedin.com/in/devnizamuddin" target="_blank" rel="noreferrer">LinkedIn</a></h2>
 
 <h3 align="left">Frameworks & Languages:</h3>
 <p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
