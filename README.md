@@ -33,7 +33,6 @@
 <p align="left">
   
 <a href="https://www.linkedin.com/in/devnizamuddin/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="https://www.linkedin.com/in/devnizamuddin/" height="52"/></a>
-  
 <a href="https://join.skype.com/invite/q8xEzW4JCUxT" target="blank"><img align="center" src="https://www.svgrepo.com/show/475679/skype-color.svg" alt="https://join.skype.com/invite/q8xEzW4JCUxT"  height="40" /></a>
 
 </p>
