@@ -32,6 +32,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/devnizamuddin/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="https://www.linkedin.com/in/devnizamuddin/" height="56"/></a>
+  
 <a href="https://www.linkedin.com/in/devnizamuddin/" target="blank"><img align="center" src="https://www.svgrepo.com/show/475679/skype-color.svg" alt="https://www.linkedin.com/in/devnizamuddin/"  height="40" /></a>
 </p>
 
