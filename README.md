@@ -31,7 +31,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/devnizamuddin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devnizamuddin/" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/devnizamuddin/" target="blank"><img align="center" src="https://www.iconpacks.net/icons/1/free-skype-icon-132-thumb.png" alt="https://www.linkedin.com/in/devnizamuddin/"  width="40" /></a>
+  <a href="https://www.linkedin.com/in/devnizamuddin/" target="blank"><img align="center" src="https://www.iconpacks.net/icons/1/free-skype-icon-132-thumb.png" alt="https://www.linkedin.com/in/devnizamuddin/"  height="30" /></a>
 </p>
 
 
