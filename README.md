@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnizamuddin&label=Profile%20views&color=0e75b6&style=flat" alt="devnizamuddin" height="24"/> </p>
 
 
-- 🔭 I’m currently working on rebuilding [Cripton ERP](https://gitlab.com/pakizatvl/criptonapp) Mobile Application
+- 🔭 I’m currently working on rebuilding [Quantum Possibilities](https://github.com/Pakiza-Software-Ltd/quantum_possibilities_flutter) Mobile Application
 
-- 🌐 Portfolio Website: [DevNizamUddin](https://sites.google.com/view/devnizamuddin/portfolio) <img src="https://e7.pngegg.com/pngimages/1014/79/png-clipart-yellow-and-black-under-construction-signage-under-construction-icon-computer-icons-architectural-engineering-free-construction-files-miscellaneous-text-thumbnail.png" width="16" height="16">
+- 🌐 Portfolio Website: [DevNizamUddin](https://sites.google.com/view/devnizamuddin/projects)
 
 - 💬 Ask me about **Flutter & Android & iOS**
 
@@ -19,7 +19,7 @@
 
 <h2>Carrer Summary</h2>
 
--  2 years plus professional job experience in working with Mobile technologies.
+-  2.9 years plus professional job experience working with Flutter.
 
 -  Experience in building apps from scratch in both Flutter and Android.
   
