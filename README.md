@@ -11,7 +11,7 @@
 
 - 🌐 Portfolio Website: [DevNizamUddin](https://sites.google.com/view/devnizamuddin/projects)
 
-- 💬 Ask me about **Cross-platform mobile ui framework Flutter & Native Android**
+- 💬 Ask me about cross-platform mobile ui framework **Flutter & Native Android**
 
 - 📫 To reach me, send an Email to **dev.nizamuddin@gmail.com**
 
