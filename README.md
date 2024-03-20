@@ -7,25 +7,27 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnizamuddin&label=Profile%20views&color=0e75b6&style=flat" alt="devnizamuddin" height="24"/> </p>
 
 
-- 🔭 I’m currently working on [Quantum Possibilities](https://github.com/Pakiza-Software-Ltd/quantum_possibilities_flutter) Mobile Application
+- 🔭 I’m currently working on [Quantum Possibilities](https://github.com/Pakiza-Software-Ltd/quantum_possibilities_flutter) mobile application
 
 - 🌐 Portfolio Website: [DevNizamUddin](https://sites.google.com/view/devnizamuddin/projects)
 
 - 💬 Ask me about cross-platform mobile ui framework **Flutter & Native Android**
 
-- 📫 To reach me, send an Email to **dev.nizamuddin@gmail.com**
+- 📫 To reach me, send an email to **dev.nizamuddin@gmail.com**
 
 
 
 <h2>Carrer Summary</h2>
 
--  2.9 years plus professional job experience working with Flutter.
+-  Results-driven developer with 2.9 years of job experience in Flutter.
 
--  Experience in building apps from scratch in both Flutter and Android.
+-  Having experience with native Android and Team Leading.
   
--  Experience in deploying apps in both AppStore & PlayStore.
+-  Expertise in building & maintaining large-scale applications.
   
--  Having experience in working in backend technologies.
+-  Proficiency in app deployment on AppStore and PlayStore.
+
+-  Passionate about exploring new technologies and implementing better solutions.
 
 
 <h2 align="left">Connect with me:</h2>
