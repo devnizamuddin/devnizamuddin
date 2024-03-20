@@ -7,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnizamuddin&label=Profile%20views&color=0e75b6&style=flat" alt="devnizamuddin" height="24"/> </p>
 
 
-- 🔭 I’m currently working on rebuilding [Quantum Possibilities](https://github.com/Pakiza-Software-Ltd/quantum_possibilities_flutter) Mobile Application
+- 🔭 I’m currently working on [Quantum Possibilities](https://github.com/Pakiza-Software-Ltd/quantum_possibilities_flutter) Mobile Application
 
 - 🌐 Portfolio Website: [DevNizamUddin](https://sites.google.com/view/devnizamuddin/projects)
 
-- 💬 Ask me about **Flutter & Android & iOS**
+- 💬 Ask me about **Cross-platform mobile ui framework Flutter & Native Android**
 
 - 📫 To reach me, send an Email to **dev.nizamuddin@gmail.com**
 
