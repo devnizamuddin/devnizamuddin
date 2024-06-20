@@ -19,7 +19,7 @@
 
 <h2>Carrer Summary</h2>
 
--  Results-driven developer with 2.9 years of job experience in Flutter.
+-  Results-driven developer with 3 years plus job experience in Flutter.
 
 -  Having experience with native Android and Team Leading.
   
