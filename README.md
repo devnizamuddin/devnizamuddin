@@ -1,42 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Nizam Uddin Shamrat - GitHub Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      max-width: 900px;
-      margin: auto;
-      padding: 20px;
-    }
-    h1 span {
-      color: #1E88E5;
-    }
-    h1, h3, h2 {
-      text-align: center;
-    }
-    .profile-views {
-      text-align: left;
-      margin-top: 10px;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    .connect a {
-      margin-right: 10px;
-    }
-    .tech-icons img {
-      margin: 5px;
-    }
-    .stats img {
-      margin: 10px 5px;
-    }
-  </style>
-</head>
-<body>
-
   <h1>Hi 👋, I'm <span>Nizam Uddin Shamrat</span></h1>
   <h3>A passionate Mobile Application Developer from Bangladesh</h3>
 
@@ -95,6 +56,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=devnizamuddin&show_icons=true&locale=en" alt="GitHub Stats"/>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devnizamuddin&" alt="Streak Stats"/>
   </div>
-
-</body>
-</html>
