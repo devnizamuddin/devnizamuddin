@@ -23,30 +23,61 @@
     <li>Passionate about exploring new technologies and implementing better solutions.</li>
   </ul>
 
-  <h2>Connect with me:</h2>
-  <a href="https://wa.me/8801715577872" target="_blank">
-    <img src="https://www.svgrepo.com/show/349563/whatsapp.svg" width="40" height="40" alt="WhatsApp">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/devnizamuddin" target="_blank">
-    <img src="https://www.svgrepo.com/show/349436/linkedin.svg" width="40" height="40" alt="LinkedIn">
-  </a>&nbsp;&nbsp;
-  <a href="mailto:dev.nizamuddin@gmail.com" target="_blank">
-    <img src="https://www.svgrepo.com/show/223047/gmail.svg" width="40" height="40" alt="Gmail">
-  </a>
+### Frameworks
+<a href="https://flutter.dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter">
+</a>&nbsp;&nbsp;
+<a href="https://developer.android.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android">
+</a>&nbsp;&nbsp;
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring Boot">
+</a>
 
+### Languages
+<a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java">
+</a>&nbsp;&nbsp;
+<a href="https://kotlinlang.org" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin">
+</a>&nbsp;&nbsp;
+<a href="https://dart.dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart">
+</a>&nbsp;&nbsp;
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="40" height="40" alt="Swift">
+</a>&nbsp;&nbsp;
+<a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C">
+</a>
 
-  <h3>Frameworks & Languages:</h3>
-  <div class="tech-icons">
-    <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-    <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-    <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-    <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a>
-    <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-    <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-    <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-    <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/></a>
-    <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-    <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>
-  </div>
+### Platforms / Tools / Services
+<a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase">
+</a>&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git">
+</a>&nbsp;&nbsp;
+<a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma">
+</a>&nbsp;&nbsp;
+<a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux">
+</a>&nbsp;&nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL">
+</a>&nbsp;&nbsp;
+<a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite">
+</a>
+
+### Connect with me
+<a href="https://wa.me/8801715577872" target="_blank">
+<img src="https://www.svgrepo.com/show/349563/whatsapp.svg" width="40" height="40" alt="WhatsApp">
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/devnizamuddin" target="_blank">
+<img src="https://www.svgrepo.com/show/349436/linkedin.svg" width="40" height="40" alt="LinkedIn">
+</a>&nbsp;&nbsp;
+<a href="mailto:dev.nizamuddin@gmail.com" target="_blank">
+<img src="https://www.svgrepo.com/show/223047/gmail.svg" width="40" height="40" alt="Gmail">
+</a>
