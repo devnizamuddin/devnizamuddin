@@ -23,7 +23,7 @@
     <li>Passionate about exploring new technologies and implementing better solutions.</li>
   </ul>
 
-### Frameworks
+## Frameworks
 <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter">
 </a>&nbsp;&nbsp;
@@ -34,7 +34,7 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring Boot">
 </a>
 
-### Languages
+## Languages
 <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java">
 </a>&nbsp;&nbsp;
@@ -51,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C">
 </a>
 
-### Platforms / Tools / Services
+## Platforms / Tools / Services
 <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase">
 </a>&nbsp;&nbsp;
@@ -71,7 +71,7 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite">
 </a>
 
-### Connect with me
+## Connect with me
 <a href="https://wa.me/8801715577872" target="_blank">
 <img src="https://www.svgrepo.com/show/349563/whatsapp.svg" width="40" height="40" alt="WhatsApp">
 </a>&nbsp;&nbsp;
