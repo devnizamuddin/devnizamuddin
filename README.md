@@ -34,6 +34,7 @@
     <img src="https://www.svgrepo.com/show/223047/gmail.svg" width="40" height="40" alt="Gmail">
   </a>
 
+
   <h3>Frameworks & Languages:</h3>
   <div class="tech-icons">
     <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
