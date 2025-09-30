@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devnizamuddin&label=Profile%20views&color=0e75b6&style=flat" alt="devnizamuddin" height="24"/> </p>
 
 
-- 🔭 I’m currently working on [Quantum Possibilities](https://github.com/Pakiza-Software-Ltd/quantum_possibilities_flutter) mobile application
+- 🔭 I’m currently working on [Work Nestor](https://github.com/Pakiza-Software-Ltd/work_nestor_flutter) mobile application
 
 - 🌐 Portfolio Website: [DevNizamUddin](https://sites.google.com/view/devnizamuddin/projects)
 
@@ -19,7 +19,7 @@
 
 <h2>Carrer Summary</h2>
 
--  Results-driven developer with 3 years plus job experience in Flutter.
+-  Results-driven developer with 4 years plus of experience in Flutter.
 
 -  Having experience with native Android and Team Leading.
   
