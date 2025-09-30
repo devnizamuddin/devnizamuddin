@@ -1,3 +1,25 @@
+<style>
+    .contact-row {
+      display: flex;         /* Arrange in a row */
+      justify-content: center; /* Center horizontally */
+      gap: 20px;             /* Space between buttons */
+      margin-top: 50px;
+    }
+    .icon-btn {
+      border: none;
+      background: #f0f0f0;
+      padding: 15px;
+      border-radius: 50%;
+      cursor: pointer;
+      font-size: 20px;
+      transition: 0.3s;
+    }
+    .icon-btn:hover {
+      background: #007bff;
+      color: #fff;
+    }
+  </style>
+
 <h1 align="center">Hi 👋, I'm <span style="color: #1E88E5">Nizam Uddin Shamrat</span></h1>
 
 <h3 align="center">A passionate Mobile Application Developer from Bangladesh</h3>
