@@ -24,7 +24,7 @@
   </ul>
 
   <h2>Connect with me:</h2>
-  <div style="display: flex; gap: 20;">
+  <div style="display: flex; gap: 20px; justify-content: center;">
     <a href="https://wa.me/8801715577872" target="_blank">
       <img height="32" width="32" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Gmail">
     </a>
