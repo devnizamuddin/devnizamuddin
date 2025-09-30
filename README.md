@@ -50,9 +50,3 @@
     <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
     <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>
   </div>
-
-  <div class="stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devnizamuddin&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=devnizamuddin&show_icons=true&locale=en" alt="GitHub Stats"/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devnizamuddin&" alt="Streak Stats"/>
-  </div>
