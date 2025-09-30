@@ -24,9 +24,15 @@
   </ul>
 
   <h2>Connect with me:</h2>
-    [![WhatsApp](https://www.svgrepo.com/show/349563/whatsapp.svg)](https://wa.me/8801715577872) 
-    [![LinkedIn](https://www.svgrepo.com/show/349436/linkedin.svg)](https://www.linkedin.com/in/devnizamuddin) 
-    [![Gmail](https://www.svgrepo.com/show/223047/gmail.svg)](mailto:dev.nizamuddin@gmail.com)
+  <a href="https://wa.me/8801715577872" target="_blank">
+    <img src="https://www.svgrepo.com/show/349563/whatsapp.svg" width="40" height="40" alt="WhatsApp">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/devnizamuddin" target="_blank">
+    <img src="https://www.svgrepo.com/show/349436/linkedin.svg" width="40" height="40" alt="LinkedIn">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:dev.nizamuddin@gmail.com" target="_blank">
+    <img src="https://www.svgrepo.com/show/223047/gmail.svg" width="40" height="40" alt="Gmail">
+  </a>
 
   <h3>Frameworks & Languages:</h3>
   <div class="tech-icons">
