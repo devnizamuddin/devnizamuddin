@@ -31,13 +31,12 @@
 
 
 <h2 align="left">Connect with me:</h2>
+
 <p align="left">
-
-  <a href="https://www.linkedin.com/in/devnizamuddin" target="blank"><img height="32" width="32" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="https://www.linkedin.com/in/devnizamuddin"></a>
-  
-<a href="https://join.skype.com/invite/q8xEzW4JCUxT" target="blank"><img height="32" width="32" src="https://www.svgrepo.com/show/475679/skype-color.svg" alt="https://join.skype.com/invite/q8xEzW4JCUxT"></a> 
-
-<a href="https://stackoverflow.com/users/20087233/devnizamuddin" target="blank"><img height="32" width="32" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="https://stackoverflow.com/users/20087233/devnizamuddin"></a>
+<!-- Linkedin -->
+<a href="https://www.linkedin.com/in/devnizamuddin" target="blank"><img height="32" width="32" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="https://www.linkedin.com/in/devnizamuddin"></a>
+<!-- WhatsApp -->
+<a href="https://wa.me/8801715577872" target="blank"><img height="32" width="32" src="https://www.svgrepo.com/show/349563/whatsapp.svg" alt="https://wa.me/8801715577872"></a> 
 </p>
 
 
