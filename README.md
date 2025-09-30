@@ -34,7 +34,7 @@
 
 <p align="left">
 <!-- Linkedin -->
-<a href="https://www.linkedin.com/in/devnizamuddin" target="blank"><img height="32" width="32" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="https://www.linkedin.com/in/devnizamuddin"></a>
+<a href="https://www.linkedin.com/in/devnizamuddin" target="blank"><img height="32" width="32" src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="https://www.linkedin.com/in/devnizamuddin"></a>
 <!-- WhatsApp -->
 <a href="https://wa.me/8801715577872" target="blank"><img height="32" width="32" src="https://www.svgrepo.com/show/349563/whatsapp.svg" alt="https://wa.me/8801715577872"></a> 
 </p>
