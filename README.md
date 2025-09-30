@@ -24,17 +24,9 @@
   </ul>
 
   <h2>Connect with me:</h2>
-  <div style="display: flex; gap: 20px; justify-content: center;">
-    <a href="https://wa.me/8801715577872" target="_blank">
-      <img height="32" width="32" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Gmail">
-    </a>
-    <a href="https://www.linkedin.com/in/devnizamuddin" target="_blank">
-      <img height="32" width="32" src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="LinkedIn">
-    </a>
-    <a href="https://wa.me/8801715577872" target="_blank">
-      <img height="32" width="32" src="https://www.svgrepo.com/show/349563/whatsapp.svg" alt="WhatsApp">
-    </a>
-  </div>
+    [![WhatsApp](https://www.svgrepo.com/show/349563/whatsapp.svg)](https://wa.me/8801715577872) 
+    [![LinkedIn](https://www.svgrepo.com/show/349436/linkedin.svg)](https://www.linkedin.com/in/devnizamuddin) 
+    [![Gmail](https://www.svgrepo.com/show/223047/gmail.svg)](mailto:dev.nizamuddin@gmail.com)
 
   <h3>Frameworks & Languages:</h3>
   <div class="tech-icons">
