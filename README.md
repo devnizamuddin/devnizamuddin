@@ -1,48 +1,83 @@
 # Hi, I'm Nizam Uddin Shamrat
 
-### A passionate Mobile Application Developer from Bangladesh
+### Lead Flutter Developer | Cross-Platform Mobile Engineer | 4+ Years of Experience
 
 ![Open for Work](https://img.shields.io/badge/Open%20for%20Work-💼-1E88E5)
 
----
 
-## About Me
+<p align="left">
+  <a href="mailto:dev.nizamuddin@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/8801715577872" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/devnizamuddin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://sites.google.com/view/devnizamuddin/projects" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on [Work Nestor](https://github.com/Pakiza-Software-Ltd/work_nestor_flutter) mobile application
-- 🌐 Portfolio Website: [DevNizamUddin](https://sites.google.com/view/devnizamuddin/projects)
-- 💬 Ask me about cross-platform mobile UI frameworks: **Flutter & Native Android**
-- 📫 Reach me via email: **dev.nizamuddin@gmail.com**
 
 ---
 
 ## Career Summary
 
-- Results-driven developer with 4+ years of experience in Flutter.
-- Experience with native Android development and team leading.
-- Expertise in building & maintaining large-scale applications.
-- Proficient in app deployment on AppStore and PlayStore.
-- Passionate about exploring new technologies and implementing better solutions.
+- Lead Flutter Developer with 4+ years of professional experience in delivering large-scale,
+high-performance, and scalable apps using Clean Architecture and SOLID principles.
+- Mentored developers and collaborated with cross-functional teams for quality products.
+- Additional experience in Native Android and REST API development using Spring Boot.
 
----
 
-## Connect with me
 
-<a href="https://wa.me/8801715577872" target="_blank">
-  <img src="https://www.svgrepo.com/show/349563/whatsapp.svg" width="40" height="40" alt="WhatsApp">
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/devnizamuddin" target="_blank">
-  <img src="https://www.svgrepo.com/show/349436/linkedin.svg" width="40" height="40" alt="LinkedIn">
-</a>&nbsp;&nbsp;
-<a href="mailto:dev.nizamuddin@gmail.com" target="_blank">
-  <img src="https://www.svgrepo.com/show/223047/gmail.svg" width="40" height="40" alt="Gmail">
-</a>
 
 ---
 
 ## Tech Stack
 
-| Category                         | Technologies / Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Frameworks**                   | [Flutter](https://flutter.dev) <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="28" height="28">&nbsp;, [Android](https://developer.android.com) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="28" height="28">&nbsp;, [Spring Boot](https://spring.io/projects/spring-boot) <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="28" height="28">&nbsp;                                                                                                                                                                                                                                                        |
-| **Languages**                    | [Java](https://www.java.com) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="28" height="28">&nbsp;, [Kotlin](https://kotlinlang.org) <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="28" height="28">&nbsp;, [Dart](https://dart.dev) <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="28" height="28">&nbsp;, [Swift](https://developer.apple.com/swift/) <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="28" height="28">&nbsp;, [C](https://www.cprogramming.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28" height="28">&nbsp; |
-| **Platforms / Tools / Services** | [Firebase](https://firebase.google.com/) <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="28" height="28">&nbsp;, [MySQL](https://www.mysql.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="28" height="28">&nbsp;, [SQLite](https://www.sqlite.org/) <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="28" height="28">&nbsp;, [Git](https://git-scm.com/) <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28" height="28">&nbsp;, [Figma](https://www.figma.com/) <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="28" height="28">&nbsp;                   |
+| Category                         | Technologies / Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Frameworks**                   | <span><a href="https://flutter.dev">Flutter</a> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://developer.android.com">Android</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://spring.io/projects/spring-boot">Spring Boot</a> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;</span>                                                                                                                                                                                                                                                                                                                                            |
+| **Languages**                    | <span><a href="https://www.java.com">Java</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://kotlinlang.org">Kotlin</a> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://dart.dev">Dart</a> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://developer.apple.com/swift/">Swift</a> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://www.cprogramming.com/">C</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;</span> |
+| **Platforms / Tools / Services** | <span><a href="https://firebase.google.com/">Firebase</a> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://www.mysql.com/">MySQL</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://www.sqlite.org/">SQLite</a> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://git-scm.com/">Git</a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://www.figma.com/">Figma</a> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;</span>                   |
+
+
+---
+## Featured Projects
+
+### 🚀 Quantum Possibilities
+A **social networking platform** enabling millions to connect, share text, photos, videos, live streams, and interact via reactions and comments.
+- Architected the mobile application with scalability and performance in mind.
+- Oversaw the project from planning to deployment, ensuring seamless UX.
+**Tech Stack:** MVC, GetX, REST API, Socket.IO, RTMP, Crypto Wallet, FCM, Deep Link
+---
+
+### 💬 QP Messenger
+
+A **real-time messaging platform** supporting one-to-one & group chats, multimedia sharing, voice/video calls, and online indicators.
+
+- Served as lead architect from planning to release.
+- Mentored junior developers on **Socket.IO** and **WebRTC**.  
+  **Tech Stack:** MVC, GetX, REST API, Socket.IO, WebRTC, Method Channel, FCM
+
+---
+
+### 🏭 Pridesys ERP
+
+A **comprehensive ERP system** tailored for the garments industry with HR, Accounts, Inventory, Purchase, and Sales modules.
+
+- Spearheaded full lifecycle development.
+- Improved data visualization with dynamic charts & grids.  
+  **Tech Stack:** CLEAN Architecture, Flutter BloC, Location, Caching, Graph, Data Grid
+
+---
+
+### 🏠 AYR Now
+
+An **on-demand service platform** connecting users with verified professionals for home services like cleaning, repair, and beauty.
+
+- Built scalable, modular mobile architecture.
+- Integrated booking management, real-time tracking, secure payments & notifications.  
+  **Tech Stack:** CLEAN Architecture, Flutter BloC, Socket.IO, Location, Stripe, Google Maps
