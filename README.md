@@ -1,4 +1,5 @@
 # Hi, I'm Nizam Uddin Shamrat
+![Coding](https://github.com/user-attachments/assets/da01c4e2-ebd3-42e3-88f1-f554f411587d)
 
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761147de83dcba0f75d13ae5e07a4943430daf0b3adc&ep=v1_user_favorites&rid=giphy.gif&ct=g" width="50%">
