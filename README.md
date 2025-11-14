@@ -1,6 +1,5 @@
-<h1 align="center">Nizam Uddin Shamrat</h1>
-<h2 align="center">📱 Mobile App Developer</h2>
-
+<h1 align="left">📱 Lead Mobile App Developer</h1>
+<h1 align="left">Nizam Uddin Shamrat</h1>
 <table height="320px">
   <tr>
   <td width="20%">
@@ -18,7 +17,7 @@
 
 
 
-### Lead Flutter Developer | Cross-Platform Mobile Engineer | 4+ Years of Experience
+
 
 ![Open for Work](https://img.shields.io/badge/Open%20for%20Work-💼-1E88E5)
 
