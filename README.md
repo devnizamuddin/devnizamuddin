@@ -1,11 +1,5 @@
-<h1 align="left"><img width="32" height="32" alt="developer" src="https://github.com/user-attachments/assets/3b13abf4-08e8-49c4-acfb-e1436e4b7ebe" />Nizam Uddin Shamrat</h1>
-
-
-
-<img width="32" height="32" alt="developer" src="https://github.com/user-attachments/assets/3b13abf4-08e8-49c4-acfb-e1436e4b7ebe" />
-
-<span style="display:inline-block; width:49%;"></span>
-<span style="display:inline-block; width:49%;">Right text</span>
+<h1 align="left">Nizam Uddin Shamrat</h1>
+<h2 align="left">Lead Mobile App Developer</h2>
 
 <table height="320px">
   <tr>
@@ -21,14 +15,6 @@
     </td>
   </tr>
 </table>
-
-## 🛠️ Tools & Technologies  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,nodejs,figma,vscode,git,github,gitlab,docker,kubernetes,firebase,postman,react,vue,flutter" />
-</p>
-
-![Open for Work](https://img.shields.io/badge/Open%20for%20Work-💼-1E88E5)
 
 <p align="left">
   <a href="mailto:dev.nizamuddin@gmail.com" target="_blank">
@@ -47,10 +33,9 @@
 
 ---
 
-## Career Summary
+<h2 align="left"><img width="24" height="24" alt="developer" src="https://github.com/user-attachments/assets/3b13abf4-08e8-49c4-acfb-e1436e4b7ebe" />   About Me</h2>
 
-- Lead Flutter Developer with 4+ years of professional experience in delivering large-scale,
-  high-performance, and scalable apps using Clean Architecture and SOLID principles.
+- 4+ years of experience in delivering large-scale, high-performance, and scalable mobile apps.
 - Mentored developers and collaborated with cross-functional teams for quality products.
 - Additional experience in Native Android and REST API development using Spring Boot.
 
@@ -65,4 +50,3 @@
 | **Platforms / Tools / Services** | <span><a href="https://firebase.google.com/">Firebase</a> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://www.mysql.com/">MySQL</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://www.sqlite.org/">SQLite</a> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://git-scm.com/">Git</a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://www.figma.com/">Figma</a> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;</span>                   |
 
 ---
-
