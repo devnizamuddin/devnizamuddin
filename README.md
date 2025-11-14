@@ -1,4 +1,3 @@
-
 <!--* =====================> Cover Photos <===================== -->
 
 <table height="320px">
@@ -15,14 +14,20 @@
     </td>
   </tr>
 </table>
-
 <!--* =====================> Name & Job Role <===================== -->
-<p align="center"> <h1>👨‍💻 Nizam Uddin Shamrat - 📱 Mobile App Developer </h1> </p>
 
-<br>
+---
+
+<p align="center">
+  <h1>👨‍💻 Nizam Uddin Shamrat</h1>
+</p>
+<p align="center">
+  <h1>📱 Mobile App Developer</h1>
+</p>
+
+---
 
 <!--* =====================> Connect with Me <===================== -->
-
 <p align="center">
   <a href="mailto:dev.nizamuddin@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -43,8 +48,8 @@
 <h2 align="left">Summary</h2>
 
 - 4+ years of professional experience in Flutter.
-- Mentored developers and collaborated with cross-functional teams for quality products.
-- Additional experience in Native Android and REST API development using Spring Boot.
+- Passionate about Coding Architecture, Performance Optimization & New Technologies
+- Additional experience in native development using Android & REST API development using Spring Boot.
 
 ---
 
