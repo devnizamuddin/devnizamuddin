@@ -1,17 +1,7 @@
 # Hi, I'm Nizam Uddin Shamrat
 
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://media.giphy.com/media/W2hyN6GryA5SVmKAXf/giphy.gif?cid=790b76118d7edb8fa45b03f0b1f9859aa21f57c2860c7d97&ep=v1_user_favorites&rid=giphy.gif&ct=g" width="100%"><br>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3pmcmh6YXFwZ3pwMDlwZnp0ZDRhZ3A0YzV6Z2J1dmd2c2MxcGFjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZanJMnl0gjO2vikbg/giphy.gif" width="100%">
-    </td>
-    <td width="50%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761147de83dcba0f75d13ae5e07a4943430daf0b3adc&ep=v1_user_favorites&rid=giphy.gif&ct=g" width="100%">
-    </td>
-  </tr>
-</table>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761147de83dcba0f75d13ae5e07a4943430daf0b3adc&ep=v1_user_favorites&rid=giphy.gif&ct=g" width="100%">
 
 
 ### Lead Flutter Developer | Cross-Platform Mobile Engineer | 4+ Years of Experience
