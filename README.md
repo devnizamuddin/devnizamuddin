@@ -1,3 +1,6 @@
+
+<!--* =====================> Cover Photos <===================== -->
+
 <table height="320px">
   <tr>
   <td width="20%">
@@ -13,9 +16,12 @@
   </tr>
 </table>
 
-<h1 align="left">Nizam Uddin Shamrat</h1>
-<h2 align="left">Lead Mobile App Developer</h2>
-<!--* Connect with Me -->
+<!--* =====================> Name & Job Role <===================== -->
+
+# Nizam Uddin Shamrat
+## Mobile App Developer
+<br>
+<!--* =====================> Connect with Me <===================== -->
 
 <p align="left">
   <a href="mailto:dev.nizamuddin@gmail.com" target="_blank">
@@ -36,7 +42,7 @@
 
 <h2 align="left">Summary</h2>
 
-- 4+ years of experience in delivering large-scale, high-performance, and scalable mobile apps.
+- 4+ years of professional experience in Flutter.
 - Mentored developers and collaborated with cross-functional teams for quality products.
 - Additional experience in Native Android and REST API development using Spring Boot.
 
