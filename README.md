@@ -1,6 +1,3 @@
-<h1 align="left">Nizam Uddin Shamrat</h1>
-<h2 align="left">Lead Mobile App Developer</h2>
-
 <table height="320px">
   <tr>
   <td width="20%">
@@ -15,6 +12,10 @@
     </td>
   </tr>
 </table>
+
+<h1 align="left">Nizam Uddin Shamrat</h1>
+<h2 align="left">Lead Mobile App Developer</h2>
+<!--* Connect with Me -->
 
 <p align="left">
   <a href="mailto:dev.nizamuddin@gmail.com" target="_blank">
@@ -33,7 +34,7 @@
 
 ---
 
-<h2 align="left"><img width="24" height="24" alt="developer" src="https://github.com/user-attachments/assets/3b13abf4-08e8-49c4-acfb-e1436e4b7ebe" />   About Me</h2>
+<h2 align="left">Summary</h2>
 
 - 4+ years of experience in delivering large-scale, high-performance, and scalable mobile apps.
 - Mentored developers and collaborated with cross-functional teams for quality products.
