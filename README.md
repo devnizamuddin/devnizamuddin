@@ -1,9 +1,30 @@
 # Hi, I'm Nizam Uddin Shamrat
 
+<img
+  src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=790b76118d7edb8fa45b03f0b1f9859aa21f57c2860c7d97&ep=v1_user_favorites&rid=giphy.gif&ct=g"
+  width="512px"
+  style="border: 1px solid #ccc; border-radius: 8px"
+/>
+
+
+<div style="display: flex; justify-content: center">
+  <img
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761147de83dcba0f75d13ae5e07a4943430daf0b3adc&ep=v1_user_favorites&rid=giphy.gif&ct=g"
+    style="object-fit: cover; width: 512px; height: 200px"
+  />
+</div>
+
+
+  <img
+    src="https://media.giphy.com/media/W2hyN6GryA5SVmKAXf/giphy.gif?cid=790b76118d7edb8fa45b03f0b1f9859aa21f57c2860c7d97&ep=v1_user_favorites&rid=giphy.gif&ct=g"
+    style="height: 100%; "
+  />
+
+
+
 ### Lead Flutter Developer | Cross-Platform Mobile Engineer | 4+ Years of Experience
 
 ![Open for Work](https://img.shields.io/badge/Open%20for%20Work-💼-1E88E5)
-
 
 <p align="left">
   <a href="mailto:dev.nizamuddin@gmail.com" target="_blank">
@@ -20,18 +41,14 @@
   </a>
 </p>
 
-
 ---
 
 ## Career Summary
 
 - Lead Flutter Developer with 4+ years of professional experience in delivering large-scale,
-high-performance, and scalable apps using Clean Architecture and SOLID principles.
+  high-performance, and scalable apps using Clean Architecture and SOLID principles.
 - Mentored developers and collaborated with cross-functional teams for quality products.
 - Additional experience in Native Android and REST API development using Spring Boot.
-
-
-
 
 ---
 
@@ -43,15 +60,18 @@ high-performance, and scalable apps using Clean Architecture and SOLID principle
 | **Languages**                    | <span><a href="https://www.java.com">Java</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://kotlinlang.org">Kotlin</a> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://dart.dev">Dart</a> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://developer.apple.com/swift/">Swift</a> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://www.cprogramming.com/">C</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;</span> |
 | **Platforms / Tools / Services** | <span><a href="https://firebase.google.com/">Firebase</a> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://www.mysql.com/">MySQL</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://www.sqlite.org/">SQLite</a> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://git-scm.com/">Git</a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;, <a href="https://www.figma.com/">Figma</a> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="28" height="28" style="vertical-align:middle;">&nbsp;</span>                   |
 
-
 ---
+
 ## Featured Projects
 
 ### 🚀 Quantum Possibilities
+
 A **social networking platform** enabling millions to connect, share text, photos, videos, live streams, and interact via reactions and comments.
+
 - Architected the mobile application with scalability and performance in mind.
 - Oversaw the project from planning to deployment, ensuring seamless UX.
-**Tech Stack:** MVC, GetX, REST API, Socket.IO, RTMP, Crypto Wallet, FCM, Deep Link
+  **Tech Stack:** MVC, GetX, REST API, Socket.IO, RTMP, Crypto Wallet, FCM, Deep Link
+
 ---
 
 ### 💬 QP Messenger
