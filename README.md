@@ -1,25 +1,11 @@
 # Hi, I'm Nizam Uddin Shamrat
 
-<img
-  src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=790b76118d7edb8fa45b03f0b1f9859aa21f57c2860c7d97&ep=v1_user_favorites&rid=giphy.gif&ct=g"
-  width="512px"
-  style="border: 1px solid #ccc; border-radius: 8px"
-/>
-
-
 <div style="display: flex; justify-content: center">
   <img
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761147de83dcba0f75d13ae5e07a4943430daf0b3adc&ep=v1_user_favorites&rid=giphy.gif&ct=g"
     style="object-fit: cover; width: 512px; height: 200px"
   />
 </div>
-
-
-  <img
-    src="https://media.giphy.com/media/W2hyN6GryA5SVmKAXf/giphy.gif?cid=790b76118d7edb8fa45b03f0b1f9859aa21f57c2860c7d97&ep=v1_user_favorites&rid=giphy.gif&ct=g"
-    style="height: 100%; "
-  />
-
 
 
 ### Lead Flutter Developer | Cross-Platform Mobile Engineer | 4+ Years of Experience
