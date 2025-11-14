@@ -1,4 +1,5 @@
-# Hi, I'm Nizam Uddin Shamrat
+<h1 align="center">Nizam Uddin Shamrat</h1>
+<h2 align="center">📱 Mobile App Developer</h2>
 
 <table>
   <tr>
