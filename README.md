@@ -1,7 +1,7 @@
 # Hi, I'm Nizam Uddin Shamrat
 
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761147de83dcba0f75d13ae5e07a4943430daf0b3adc&ep=v1_user_favorites&rid=giphy.gif&ct=g" width="100%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761147de83dcba0f75d13ae5e07a4943430daf0b3adc&ep=v1_user_favorites&rid=giphy.gif&ct=g" width="50%">
 
 
 ### Lead Flutter Developer | Cross-Platform Mobile Engineer | 4+ Years of Experience
