@@ -1,5 +1,12 @@
-<h1 align="left">📱 Lead Mobile App Developer</h1>
-<h1 align="left">Nizam Uddin Shamrat</h1>
+<h1 align="left"><img width="32" height="32" alt="developer" src="https://github.com/user-attachments/assets/3b13abf4-08e8-49c4-acfb-e1436e4b7ebe" />Nizam Uddin Shamrat</h1>
+
+
+
+<img width="32" height="32" alt="developer" src="https://github.com/user-attachments/assets/3b13abf4-08e8-49c4-acfb-e1436e4b7ebe" />
+
+<span style="display:inline-block; width:49%;"></span>
+<span style="display:inline-block; width:49%;">Right text</span>
+
 <table height="320px">
   <tr>
   <td width="20%">
@@ -14,6 +21,12 @@
     </td>
   </tr>
 </table>
+
+## 🛠️ Tools & Technologies  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,nodejs,figma,vscode,git,github,gitlab,docker,kubernetes,firebase,postman,react,vue,flutter" />
+</p>
 
 ![Open for Work](https://img.shields.io/badge/Open%20for%20Work-💼-1E88E5)
 
