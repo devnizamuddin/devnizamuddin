@@ -15,10 +15,6 @@
   </tr>
 </table>
 
-
-
-
-
 ![Open for Work](https://img.shields.io/badge/Open%20for%20Work-💼-1E88E5)
 
 <p align="left">
@@ -31,7 +27,7 @@
   <a href="https://www.linkedin.com/in/devnizamuddin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;
-  <a href="https://sites.google.com/view/devnizamuddin/projects" target="_blank">
+  <a href="https://devnizamuddin.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
