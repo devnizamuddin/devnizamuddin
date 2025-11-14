@@ -1,19 +1,16 @@
 # Hi, I'm Nizam Uddin Shamrat
-![Coding](https://github.com/user-attachments/assets/da01c4e2-ebd3-42e3-88f1-f554f411587d)
-![metric animation for UIUX design landing page](https://github.com/user-attachments/assets/176d3d97-6632-420e-9a0a-dfeb42ab62d4)
-![Mobile App Showcase](https://github.com/user-attachments/assets/7f3241e7-f5ff-4805-b0aa-673b6b6a313b)
 
 <table>
   <tr>
-  <td width="40%">
+  <td width="20%">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761147de83dcba0f75d13ae5e07a4943430daf0b3adc&ep=v1_user_favorites&rid=giphy.gif&ct=g" width="100%">
-    <td width="20%">
+    <td width="10%">
       <img src="https://github.com/user-attachments/assets/7f3241e7-f5ff-4805-b0aa-673b6b6a313b" width="100%"><br>
       <img src="https://github.com/user-attachments/assets/7f8d1544-d968-4c72-9b7b-b6fe6048ffcd" width="100%"><br>
     </td>
-    <td width="20%">
-      <img src="https://github.com/user-attachments/assets/176d3d97-6632-420e-9a0a-dfeb42ab62d4" width="100%"><br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NXlxNnB5eDQ1a2Voc3h6Y2Fmdm9sMTFscWkyYnd2a2drZWJlZ3dpdCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/XgMptNKlNH2XL2zgsx/giphy.gif" width="100%">
+    <td width="10%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NXlxNnB5eDQ1a2Voc3h6Y2Fmdm9sMTFscWkyYnd2a2drZWJlZ3dpdCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/XgMptNKlNH2XL2zgsx/giphy.gif" width="100%"><br>
+      <img src="https://github.com/user-attachments/assets/176d3d97-6632-420e-9a0a-dfeb42ab62d4" width="100%">
     </td>
     </td>
   </tr>
