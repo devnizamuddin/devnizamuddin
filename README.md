@@ -45,7 +45,7 @@
 
 ---
 
-<h2 align="left">Summary</h2>
+<h2 align="left">Career Summary</h2>
 
 - 4+ years of professional experience in Flutter.
 - Passionate about Coding Architecture, Performance Optimization & New Technologies
