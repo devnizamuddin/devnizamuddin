@@ -47,9 +47,9 @@
 
 <h2 align="left">Career Summary</h2>
 
-🔹 4+ years of professional experience in Flutter.
-🔹 Passionate about Coding Architecture, Performance Optimization & New Technologies
-🔹 Additional experience in native development using Android & REST API development using Spring Boot.
+🔹 4+ years of professional experience in Flutter.<br>
+🔹 Passionate about Coding Architecture, Performance Optimization & New Technologies.<br>
+🔹 Additional experience in native development using Android & REST API development using Spring Boot.<br>
 
 ---
 
