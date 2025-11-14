@@ -17,13 +17,13 @@
 </table>
 
 <!--* =====================> Name & Job Role <===================== -->
+<p align="center"> <h1>👨‍💻 Nizam Uddin Shamrat - 📱 Mobile App Developer </h1> </p>
 
-# Nizam Uddin Shamrat
-## Mobile App Developer
 <br>
+
 <!--* =====================> Connect with Me <===================== -->
 
-<p align="left">
+<p align="center">
   <a href="mailto:dev.nizamuddin@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>&nbsp;&nbsp;
