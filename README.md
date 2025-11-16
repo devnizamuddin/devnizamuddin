@@ -49,7 +49,7 @@
 
 **🔹 4+ years of professional experience in building scalable apps using Flutter.**<br>
 **🔹 Passionate about Coding Architecture, Performance Optimization & New Technologies.**<br>
-**🔹 Additional experience in native development using Android & REST API development using Spring Boot.**<br>
+**🔹 Additional Experience: Native development using Android & REST API development using Spring Boot.**<br>
 
 ---
 
