@@ -18,12 +18,12 @@
 
 ---
 
-<p align="center">
-  <h1>👨‍💻 Nizam Uddin Shamrat</h1>
-</p>
-<p align="center">
-  <h1>📱 Mobile App Developer</h1>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><h1>👨‍💻 Nizam Uddin Shamrat</h1></td>
+    <td align="center"><h1>📱 Mobile App Developer</h1></td>
+  </tr>
+</table>
 
 ---
 
