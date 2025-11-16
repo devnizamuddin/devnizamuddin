@@ -20,8 +20,8 @@
 
 <table align="center">
   <tr>
-    <td align="center"><h1>👨‍💻 Nizam Uddin Shamrat</h1></td>
-    <td align="center"><h1>📱 Mobile App Developer</h1></td>
+    <td align="center"><h2>👨‍💻 Nizam Uddin Shamrat</h2></td>
+    <td align="center"><h2>📱 Mobile App Developer</h2></td>
   </tr>
 </table>
 
@@ -52,7 +52,7 @@
 **🔹 Additional Experience: Native development using Android & REST API development using Spring Boot.**<br>
 
 ---
-<h2 align="left">🚀 Tech Stack</h2>
 
+<h2 align="left">🚀 Tech Stack</h2>
 
 <table align="center"> <tr> <td align="right"><strong>Frameworks</strong></td> <td> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="16" /> Flutter &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="16" /> Android &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="16" /> Spring Boot </td> </tr> <tr> <td align="right"><strong>Languages</strong></td> <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="16" /> Java &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="16" /> Kotlin &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="16" /> Dart &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="16" /> Swift &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="16" /> C </td> </tr> <tr> <td align="right"><strong>Platforms / Tools</strong></td> <td> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="16" /> Firebase &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="16" /> MySQL &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="16" /> SQLite &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="16" /> Git &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="16" /> Figma </td> </tr> </table>
