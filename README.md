@@ -1,5 +1,5 @@
 <!--* =====================> Cover Photos <===================== -->
-<!-- <table height="320px">
+<table height="320px">
   <tr>
   <td width="20%">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761147de83dcba0f75d13ae5e07a4943430daf0b3adc&ep=v1_user_favorites&rid=giphy.gif&ct=g" width="100%">
@@ -8,9 +8,8 @@
     </td>
     </td>
   </tr>
-</table> -->
+</table>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761147de83dcba0f75d13ae5e07a4943430daf0b3adc&ep=v1_user_favorites&rid=giphy.gif&ct=g" width="100%">
 ---
 <!--* =====================> Name & Job Role <===================== -->
 <table align="center">
