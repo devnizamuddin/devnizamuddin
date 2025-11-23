@@ -3,9 +3,9 @@
   <tr>
   <td width="20%">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761147de83dcba0f75d13ae5e07a4943430daf0b3adc&ep=v1_user_favorites&rid=giphy.gif&ct=g" width="100%">
-    <td width="10%">
+    <!-- <td width="10%">
       <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NXlxNnB5eDQ1a2Voc3h6Y2Fmdm9sMTFscWkyYnd2a2drZWJlZ3dpdCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/XgMptNKlNH2XL2zgsx/giphy.gif" width="100%">
-    </td>
+    </td> -->
     </td>
   </tr>
 </table>
