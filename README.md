@@ -22,6 +22,7 @@
   </a>
 </p>
 
+---
 <!--* =====================> Name & Job Role <===================== -->
 
 <h1>📱 Mobile App Developer</h2>
@@ -31,13 +32,13 @@
 
 <h2 align="left">📊 Career Summary</h2>
 
-🔹 4+ years of professional experience in building scalable apps using Flutter.<br>
+🔹 **Lead Flutter Developer** with strong expertise in building scalable, maintainable, and high-performance mobile applications.<br>
 🔹 Passionate about Coding Architecture, Performance Optimization & New Technologies.<br>
 🔹 Additional Experience: Native development using Android & REST API development using Spring Boot.<br>
 
-<h2 align="left">🚀 Tech Stack</h2>
-
 <!--* =====================> 🚀 Tech Stack <===================== -->
+
+<h2 align="left">🚀 Tech Stack</h2>
 
 <table align="left">
    <tr>
