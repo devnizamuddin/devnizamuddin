@@ -40,20 +40,27 @@
 
 <h2 align="left">🚀 Tech Stack</h2>
 
-<table align="left">
-   <tr>
-      <td align="right"><strong>Frameworks</strong></td>
-      <td> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="16" /> Flutter &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="16" /> Android &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="16" /> Spring Boot </td>
-   </tr>
-   <tr>
-      <td align="right"><strong>Languages</strong></td>
-      <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="16" /> Java &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="16" /> Kotlin &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="16" /> Dart &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="16" /> Swift &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="16" /> C </td>
-   </tr>
-   <tr>
-      <td align="right"><strong>Platforms / Tools</strong></td>
-      <td> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="16" /> Firebase &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="16" /> MySQL &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="16" /> SQLite &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="16" /> Git &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="16" /> Figma </td>
-   </tr>
-</table>
+**Frameworks**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Platforms & Tools**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
 
