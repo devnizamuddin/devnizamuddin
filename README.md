@@ -25,8 +25,8 @@
 ---
 <!--* =====================> Name & Job Role <===================== -->
 
-<h1>📱 Mobile App Developer</h2>
-<h2>👨‍💻 Nizam Uddin Shamrat</h2>
+<h1>📱 Mobile App Developer</h1>
+<h1>👨‍💻 Nizam Uddin Shamrat</h1>
 
 <!--* =====================>📊 Career Summary <===================== -->
 
